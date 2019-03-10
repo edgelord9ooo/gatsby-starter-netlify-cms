@@ -23,6 +23,7 @@ const TemplateWrapper = ({ children }) => (
       <div>
         <Helmet>
           <html lang="en" />
+          <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
           <title>{data.site.siteMetadata.title}</title>
           <meta
             name="description"

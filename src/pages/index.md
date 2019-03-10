@@ -1,22 +1,17 @@
 ---
 templateKey: 'index-page'
-title: 'Great coffee with a conscience'
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: 'Tribulations and Revelations'
+image: /img/universe.jpg
+heading: Tribulations and Revelations
+subheading: In search of Life, the Universe and Everything
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Hailing from the humble beginnings in the tropic regions of Brunei Darussalam, Avery Tan is a another human being
 mainpitch:
-  title: Why Kaldi
+  title: What's been on my mind recently?
   description: >
-      Kaldi is the coffee store for everyone who believes that
-      great coffee shouldn't just taste good, it should do good
-      too. We source all of our beans directly from small scale
-      sustainable farmers and make sure part of the profits are
-      reinvested in their communities.
+      Of most notable recent news that has peaked my interest is the announcement of the Tesla Model Y SUV that will be unveiled next week on March 14th 2019. 
+
+      This car, along with the already released base model 3 car will revolutionize the world. So many companies have spoken about making the world a better place that it's become a stereotypical joke seen played all too often on HBO's Silicon Valley.
 intro:
   blurbs:
     - image: /img/coffee.png
